@@ -1,5 +1,7 @@
 # Groq-Conversational-Memory-for-LLM
 Groq-Conversational Memory for LLM
+![image](https://github.com/user-attachments/assets/be647424-209d-4ac8-a1a4-843f8961444b)
+
 # Bengali Family Health FAQ Assistant (Flask + Groq)
 
 This project is a web-based chatbot application designed to answer questions related to Bengali family health. It uses the **Groq API** for generating intelligent responses and processes a pre-defined FAQ dataset for retrieving relevant answers.
